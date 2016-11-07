@@ -1,0 +1,47 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite--fb {
+    width: 12px;
+    height: 22px;
+    background-position: -10px -10px;
+}
+
+.sprite--fb-black {
+    width: 12px;
+    height: 22px;
+    background-position: -10px -52px;
+}
+
+.sprite--icon-login {
+    width: 18px;
+    height: 16px;
+    background-position: -10px -94px;
+}
+
+.sprite--ig {
+    width: 21px;
+    height: 21px;
+    background-position: -10px -130px;
+}
+
+.sprite--ig-black {
+    width: 21px;
+    height: 21px;
+    background-position: -10px -171px;
+}
+
+.sprite--vk {
+    width: 25px;
+    height: 16px;
+    background-position: -10px -212px;
+}
+
+.sprite--vk-black {
+    width: 25px;
+    height: 16px;
+    background-position: -10px -248px;
+}
